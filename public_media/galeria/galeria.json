@@ -1,182 +1,146 @@
 [
  {
   "archivo": "cheloperel-ph-01",
-  "autor": "@cheloperel.ph",
-  "vertical": true
+  "autor": "@cheloperel.ph"
  },
  {
   "archivo": "cheloperel-ph-02",
-  "autor": "@cheloperel.ph",
-  "vertical": true
+  "autor": "@cheloperel.ph"
  },
  {
   "archivo": "cheloperel-ph-03",
-  "autor": "@cheloperel.ph",
-  "vertical": true
+  "autor": "@cheloperel.ph"
  },
  {
   "archivo": "cheloperel-ph-04",
-  "autor": "@cheloperel.ph",
-  "vertical": true
- },
- {
-  "archivo": "livee-vents-01",
-  "autor": "@livee.vents",
-  "vertical": false
- },
- {
-  "archivo": "livee-vents-02",
-  "autor": "@livee.vents",
-  "vertical": false
- },
- {
-  "archivo": "livee-vents-03",
-  "autor": "@livee.vents",
-  "vertical": false
- },
- {
-  "archivo": "livee-vents-04",
-  "autor": "@livee.vents",
-  "vertical": true
- },
- {
-  "archivo": "livee-vents-05",
-  "autor": "@livee.vents",
-  "vertical": false
- },
- {
-  "archivo": "livee-vents-06",
-  "autor": "@livee.vents",
-  "vertical": false
- },
- {
-  "archivo": "livee-vents-07",
-  "autor": "@livee.vents",
-  "vertical": true
- },
- {
-  "archivo": "livee-vents-08",
-  "autor": "@livee.vents",
-  "vertical": false
- },
- {
-  "archivo": "livee-vents-09",
-  "autor": "@livee.vents",
-  "vertical": false
+  "autor": "@cheloperel.ph"
  },
  {
   "archivo": "metronomo_uy-01",
-  "autor": "@metronomo_uy",
-  "vertical": false
+  "autor": "@metronomo_uy"
  },
  {
   "archivo": "metronomo_uy-02",
-  "autor": "@metronomo_uy",
-  "vertical": false
+  "autor": "@metronomo_uy"
  },
  {
   "archivo": "metronomo_uy-03",
-  "autor": "@metronomo_uy",
-  "vertical": false
+  "autor": "@metronomo_uy"
  },
  {
   "archivo": "metronomo_uy-04",
-  "autor": "@metronomo_uy",
-  "vertical": false
+  "autor": "@metronomo_uy"
  },
  {
   "archivo": "metronomo_uy-05",
-  "autor": "@metronomo_uy",
-  "vertical": false
+  "autor": "@metronomo_uy"
  },
  {
   "archivo": "metronomo_uy-06",
-  "autor": "@metronomo_uy",
-  "vertical": false
+  "autor": "@metronomo_uy"
  },
  {
   "archivo": "metronomo_uy-07",
-  "autor": "@metronomo_uy",
-  "vertical": false
+  "autor": "@metronomo_uy"
  },
  {
   "archivo": "metronomo_uy-08",
-  "autor": "@metronomo_uy",
-  "vertical": false
+  "autor": "@metronomo_uy"
+ },
+ {
+  "archivo": "metronomo_uy-09",
+  "autor": "@metronomo_uy"
+ },
+ {
+  "archivo": "metronomo_uy-10",
+  "autor": "@metronomo_uy"
+ },
+ {
+  "archivo": "metronomo_uy-11",
+  "autor": "@metronomo_uy"
  },
  {
   "archivo": "omentomacarena-01",
-  "autor": "@omentomacarena",
-  "vertical": true
+  "autor": "@omentomacarena"
  },
  {
   "archivo": "omentomacarena-02",
-  "autor": "@omentomacarena",
-  "vertical": true
+  "autor": "@omentomacarena"
  },
  {
   "archivo": "omentomacarena-03",
-  "autor": "@omentomacarena",
-  "vertical": true
+  "autor": "@omentomacarena"
  },
  {
   "archivo": "omentomacarena-04",
-  "autor": "@omentomacarena",
-  "vertical": true
+  "autor": "@omentomacarena"
  },
  {
   "archivo": "omentomacarena-05",
-  "autor": "@omentomacarena",
-  "vertical": true
+  "autor": "@omentomacarena"
  },
  {
   "archivo": "omentomacarena-06",
-  "autor": "@omentomacarena",
-  "vertical": true
+  "autor": "@omentomacarena"
  },
  {
   "archivo": "omentomacarena-07",
-  "autor": "@omentomacarena",
-  "vertical": true
+  "autor": "@omentomacarena"
+ },
+ {
+  "archivo": "omentomacarena-08",
+  "autor": "@omentomacarena"
+ },
+ {
+  "archivo": "omentomacarena-09",
+  "autor": "@omentomacarena"
+ },
+ {
+  "archivo": "omentomacarena-10",
+  "autor": "@omentomacarena"
  },
  {
   "archivo": "phiop_uy-01",
-  "autor": "@phiop_uy",
-  "vertical": false
+  "autor": "@phiop_uy"
  },
  {
   "archivo": "phiop_uy-02",
-  "autor": "@phiop_uy",
-  "vertical": false
+  "autor": "@phiop_uy"
  },
  {
   "archivo": "phiop_uy-03",
-  "autor": "@phiop_uy",
-  "vertical": false
+  "autor": "@phiop_uy"
  },
  {
   "archivo": "phiop_uy-04",
-  "autor": "@phiop_uy",
-  "vertical": false
+  "autor": "@phiop_uy"
  },
  {
   "archivo": "phiop_uy-05",
-  "autor": "@phiop_uy",
-  "vertical": false
+  "autor": "@phiop_uy"
  },
  {
   "archivo": "phiop_uy-06",
-  "autor": "@phiop_uy",
-  "vertical": false
+  "autor": "@phiop_uy"
  },
  {
   "archivo": "phiop_uy-07",
-  "autor": "@phiop_uy",
-  "vertical": false
+  "autor": "@phiop_uy"
  },
  {
   "archivo": "phiop_uy-08",
-  "autor": "@phiop_uy",
-  "vertical": false
+  "autor": "@phiop_uy"
+ },
+ {
+  "archivo": "phiop_uy-09",
+  "autor": "@phiop_uy"
+ },
+ {
+  "archivo": "phiop_uy-10",
+  "autor": "@phiop_uy"
+ },
+ {
+  "archivo": "phiop_uy-11",
+  "autor": "@phiop_uy"
  }
 ]
